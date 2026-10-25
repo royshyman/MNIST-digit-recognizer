@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+test/
+.gradio/
+HANDOFF-mnist.md
